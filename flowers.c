@@ -1,2 +1,4 @@
 rose
 lotus
+lily
+hibiscus
